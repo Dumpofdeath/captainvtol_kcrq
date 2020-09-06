@@ -4,7 +4,7 @@ Created by: CaptainVTOL
 A product of VTOL Aviation: https://sites.google.com/view/vtol-aviation/home
 Part of the "Airports of San Diego" Pack: [LINK TBD]
 
-KCRQ McClellan-Palomar Airport is an airport located in Carlsbad, California. The airport is owned by the County of San Diego. The aiport is primarily a general aviation airport, seeing roughly 95% of its 160,000+ flights as general aviation traffic. Palomar Airport is the fourth busiest single runway airport in the United States. While several airlines have attempted operations out of Palomar over the years, none have survived for very long. Maybe your Virtual Airline can stand the test of time?
+KCRQ McClellan-Palomar Airport is an airport located in Carlsbad, California. The airport is owned by the County of San Diego. The airport is primarily a general aviation airport, seeing roughly 95% of its 160,000+ flights as general aviation traffic. Palomar Airport is the fourth busiest single runway airport in the United States. While several airlines have attempted operations out of Palomar over the years, none have survived for very long. Maybe your Virtual Airline can stand the test of time?
 
 The AI-generated KCRQ had several issues, primarily noticably fewer buildings than its real life counterpart. This airport was constructed as part of a to-be released "Airports of San Diego" pack with Trevor26V.
 
